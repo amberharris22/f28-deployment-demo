@@ -2,9 +2,9 @@
   "name": "deployment-demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",  //make sure this is the main server js file
+  "main": "index.js",  
   "scripts": {
-    "start": "node index.js",  //add this line with main server js file
+    "start": "node index.js",  
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
